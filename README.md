@@ -1,6 +1,7 @@
-# OSI Model: The basics
+# Open Systems Interconnection (OSI) Model: The basics
+### By Cassie Beisheim
 
-## Hello and welcome to my OSI Model basics tutorial. The OSI Model is a crucial aspect to understanding computing systems and how they work. 
+## Hello and welcome to my OSI Model basics tutorial. The OSI Model is a crucial aspect to understanding computing systems and how they work. While we no longer actively use the model (we use the TCP/IP model), it is still helpful in understanding how to troubleshoot errors and for one's overall understanding of functionality. 
 
 ## There are seven layers within the OSI Model, and I will be providing some information regarding each layer on the following pages:
 
