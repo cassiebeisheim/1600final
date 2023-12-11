@@ -1,8 +1,8 @@
 # 7: The Application Layer
 
-![Second Layer](https://utimaco.com/sites/default/files/2021-11/digital-communication-end-to-end-encryption-stage.jpg)
+![Second Layer](https://t3.ftcdn.net/jpg/03/04/63/74/360_F_304637411_K8cFD07ulq5J8DtoZzfTv4qKsSHnoLEy.jpg)
 
-### The transport layer makes sure that the end-to-end communication runs smoothly. It focuses on error detection, flow control, and support for re-transmission. Some examples of common protocols for the transport layer are TCP (Transmission Control Protocol) and UDP (User Datagram Protocol). 
+### The application layer is the final of the seven layers of the OSI model. It provides network services directly to end users. It invludes protocol for things such as HTTP (Hypertext Transfer Protocol), FTP (File Transfer Protocol), and SMTP (Simple Mail Transfer Protocol). 
 
 [Back to home](README.md)
 
