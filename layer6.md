@@ -1,8 +1,8 @@
 # 6: The Presentation Layer
 
-![Second Layer](https://utimaco.com/sites/default/files/2021-11/digital-communication-end-to-end-encryption-stage.jpg)
+![Second Layer](https://static.vecteezy.com/system/resources/previews/022/019/054/non_2x/illustration-icon-of-gesture-man-doing-presentation-at-meeting-really-good-for-icon-of-powerpoint-presentation-icon-for-your-business-free-vector.jpg)
 
-### The transport layer makes sure that the end-to-end communication runs smoothly. It focuses on error detection, flow control, and support for re-transmission. Some examples of common protocols for the transport layer are TCP (Transmission Control Protocol) and UDP (User Datagram Protocol). 
+### The presentation layer processes the syntax of data exchanged across networks and formats it for the layer above it, the application layer. It translates between the application and network data formats so the information is ready for transport. 
 
 [Back to home](README.md)
 
